@@ -4,10 +4,10 @@ Something I'm making yesh :)
 
 `Quite simple what to make.`
 
-`# Default values for all domains
+# Default values for all domains
 default:
   motd: "Welcome to our server!"
-  server-icon: "icons/default.png"`
+  server-icon: "icons/default.png"
 
 # Settings for specific domains
 domains:
